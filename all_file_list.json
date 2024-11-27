@@ -1043,13 +1043,6 @@
     "Dimension": "1280x536"
   },
   {
-    "Type": "DIR",
-    "Size": "",
-    "Name": "extract_details",
-    "Resolution": "",
-    "Dimension": ""
-  },
-  {
     "Type": "FILE",
     "Size": "549.23 MB",
     "Name": "Farzi S01E08-2023-720.mkv",
@@ -3474,7 +3467,7 @@
   {
     "Type": "FILE",
     "Size": "2.05 GB",
-    "Name": "The Maze Runner- 2014.mkv",
+    "Name": "The Maze Runner-2014-1080.mkv",
     "Resolution": "1080p (Full HD)",
     "Dimension": "1920x800"
   },
@@ -3607,7 +3600,7 @@
   {
     "Type": "FILE",
     "Size": "1.11 GB",
-    "Name": "The White Tiger- 2021.mkv",
+    "Name": "The White Tiger-2021-720.mkv",
     "Resolution": "720p (HD)",
     "Dimension": "1280x640"
   },
